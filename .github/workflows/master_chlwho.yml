@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'chlwho'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6324a3185d7c455fbf70194acb820adf }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_671ce20fa4b2408a88d8000db8bc6933 }}
         package: .
